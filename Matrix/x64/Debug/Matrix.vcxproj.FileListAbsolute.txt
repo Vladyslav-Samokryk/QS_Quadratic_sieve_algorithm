@@ -1,0 +1,2 @@
+D:\new\Slava_lab\obj\Matrix\x64\Debug\Matrix.dll
+D:\new\Slava_lab\obj\Matrix\x64\Debug\Matrix.pdb

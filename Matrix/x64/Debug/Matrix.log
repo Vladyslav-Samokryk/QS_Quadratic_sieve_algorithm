@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\new\Slava_lab\obj\Matrix\dllmain.cpp(119,84): warning C4273: 'test': inconsistent dll linkage
+D:\new\Slava_lab\obj\Matrix\pch.h(20,32): message : see previous definition of 'test'
+     Creating library D:\new\Slava_lab\obj\Matrix\x64\Debug\Matrix.lib and object D:\new\Slava_lab\obj\Matrix\x64\Debug\Matrix.exp
+  Matrix.vcxproj -> D:\new\Slava_lab\obj\Matrix\x64\Debug\Matrix.dll
